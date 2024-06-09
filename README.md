@@ -8,7 +8,7 @@ Here's a snippet of the help menu:
 ```
 OFF 1.0
 (c) 2024, William Larsson/TheWilley
-Open a folder from a file path
+Open the containing folder of a specified file path
 
 Usage:
 OFF path*
