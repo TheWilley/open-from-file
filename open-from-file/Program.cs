@@ -46,8 +46,3 @@ class OpenFromFile
         Console.WriteLine(messages[index]);
     }
 }
-
-public class CliMessage
-{
-    public string Message { get; set; }
-}
