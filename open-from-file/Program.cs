@@ -5,8 +5,8 @@ class OpenFromFile
 {
     private static String[] messages = [
       "OFF 1.0\n(c) 2024, William Larsson/TheWilley\nOpen the containing folder of a specified file path\n\nUsage:\nOFF path*\n\npath*          - The path to a file\n\nExample: off C:\\Users\\TheWilley\\Videos\\example.mp4",
-      "Error: File path does not exist",
-      "Error: Could not open explorer"
+      "Error: Invalid file path",
+      "Error: Could not open explorer.exe"
     ];
 
 
